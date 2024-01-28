@@ -37,11 +37,11 @@ body {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
 }
 
 #profile {
-  width: 360px;
   text-align: center;
 }
 
@@ -212,7 +212,7 @@ footer a {
   }
 }
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 700px) {
   :root {
     --br-url: url(./imgs/bg-desktop.jpg);
   }
