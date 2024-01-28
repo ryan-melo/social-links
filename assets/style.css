@@ -68,6 +68,7 @@ body {
 
 #switch {
   padding: 8px 0px;
+  margin-top: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -109,6 +110,10 @@ label div p span {
   height: 16px;
   background:var(--bg-image) no-repeat top center;
   transition: background 200ms;
+}
+
+label div p:hover {
+  outline: 8px solid var(--highlight-color);
 }
 
 label input {
