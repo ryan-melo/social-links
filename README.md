@@ -2,21 +2,24 @@
 <h3 align="center"> Página única com múltiplos links para organizar e compartilhar conteúdos </h3>
 
 <p align="center">
-  <a href=".techs">Tecnologias</a>
+  <a href="#techs">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href=".techs">Features</a>
+  <a href="#techs">Features</a>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://bio.oiryan.com/" target="_blank"><img src="assets/imgs/demo.png" width="100%"></a>
+  <a href="https://bio.oiryan.com/" target="_blank"><img src="assets/imgs/demo.png" width="60%"></a>
+</p>
+
+<p align="center">
   (Clique na imagem para acessar o site)
 </p>
 
 <br/>
 
-<div class="techs">
+<div id="techs">
   
 ## 🚀 Tecnologias
 
