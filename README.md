@@ -35,7 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto tem as seguintes features:
 
 - Página Personalizável
-- Página Personalizável
 - Integração com Redes Sociais
 - Dark Mode
 - Responsividade
